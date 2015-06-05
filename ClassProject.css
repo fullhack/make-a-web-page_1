@@ -1,0 +1,37 @@
+/* This is a CSS comment.*/
+
+/*.classname {attribute: value;}*/
+
+* {
+   outline: 1px solid red !important;
+}
+
+.title {background-color: #33BEBE;
+	text-transform: uppercase;
+	font-family: Arial}
+
+
+.section {
+    display: flex;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+.image {
+	max-width: 460px;
+}
+
+.notes {max-width: 705px;
+	padding: 10px;
+	color: #7C8B88;
+}
+
+
+
+
+
